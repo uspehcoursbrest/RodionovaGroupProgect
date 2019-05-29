@@ -111,4 +111,16 @@ header .phone [class*="icon"]{
     text-decoration: line-through;
     color: #666666;
 }
+.card button {
+    font-size: 14px;
+    line-height: 32px;
+    text-align: center;
+    color: #ffffff
+}
+.socials h2 {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    color: #666666;
+}
 
